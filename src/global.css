@@ -6,3 +6,12 @@
   outline: 0;
   box-sizing: border-box;
 }
+
+body {
+  font: 400 14px Roboto, sans-serif;
+  background: #304543 !important;
+}
+
+li {
+  list-style-type: none;
+}
